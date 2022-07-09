@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "哈兜",
+  "navigationBarBackgroundColor": "#1d9c9c",
+  "backgroundColor": "#F8F8F8",
+  "usingComponents": {
+    "wordle-header": "/pages/index/components/Header/Header",
+    "keyboard": "/pages/index/components/Keyboard/Keyboard"
+  }
+}

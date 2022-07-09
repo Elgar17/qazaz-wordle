@@ -1,0 +1,19 @@
+{
+	"locale.auto": "系统",
+	"locale.en": "English",
+	"locale.zh-hans": "简体中文",
+	"locale.kz": "قازاقشا",
+	"common.language": "语言",
+	"index.title": "哈兜",
+	"index.table": "字母表",
+	"rule.name": "哈兜",
+	"rule.rulesgame": "游戏规则",
+	"rule.mes1": "根据单词的长度猜一个",
+	"rule.mes2": "哈语单词",
+	"rule.mes3": "每次猜测后，格子中的颜色将会标识其与正确答案的区别。",
+	"rule.mes4": "上面的例子中，橙色代表当前字母在单词中，但不在正确的位置上。绿色代表在正确的位置上。",
+	"rule.mes5": "上面的例子中，灰色代表当前字母不在单词中。",
+	"rule.mes6": "卡片全部为绿色则恭喜你猜对了！",
+	"schema.add": "添加",
+	"kb.submit": "确认"
+}
